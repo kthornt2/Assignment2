@@ -1,0 +1,1 @@
+Goal: To demonstrate ability to use Ruby, GIT and JAVA by creating an application that replicates the 99 Bottles of Beer Song in java, and sucessfully managage distribution and version control using GIT and Ruby.
